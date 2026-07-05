@@ -8,3 +8,6 @@ Open a pull request against main.
 ## Contributing squash
 squash merge
 A change on main after branch.
+
+## Contributing rebase
+rebase merge
